@@ -3,7 +3,7 @@
 
 <div align="center">
     
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/866849747603816468)](https://discord.com/users/722901871001337968)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/722901871001337968)](https://discord.com/users/722901871001337968)
     
 </div>
 
